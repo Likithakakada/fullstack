@@ -1,0 +1,173 @@
+.j{
+	background-color:lavenderblush ;
+	height: 900px;
+	width: 1200px;
+	padding-top: 10px;
+}
+.k{
+	height: 30px;
+	width: 1200px;
+	background-color: white;
+	border: 5px;
+	margin-bottom:50px;
+
+
+}
+.l{
+	height: 380px;
+	width: 300px;
+	background-color: white;
+	border: 10px;
+	margin-top: 10px;
+	float: left;
+    margin-left: 10px;
+	text-align: center;
+
+}
+
+.m{
+	height: 250px;
+	width: 870px;
+	background-color: white;
+	border: 5px;
+	border-radius: 5px;
+	float: right;
+	margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+   
+}
+.n{
+	height: 400px;
+	width: 870px;
+	background-color: white;
+	border: 5px;
+	border-radius: 5px;
+    float: right;
+    margin-bottom: 30px;
+    margin-right: 10px;
+
+   
+}
+.o{
+	height: 3px;
+	width: 5px;
+	border: 5px solid;
+	background-color: darkcyan;
+}
+.e{
+	height: 20px;
+	width:80px;
+	background-color: blue;
+	margin:10px;
+    color: white;
+    border-radius: 50px;
+    border: 5px solid;
+    float: left;
+   
+}
+.f{
+	height: 20px;
+	width:80px;
+	background-color: blue;
+	margin:10px;
+    color: white;
+    border-radius: 50px;
+    border: 5px solid;
+    float: right;
+    
+}
+.tr{
+
+	height: 4px;
+	width: 700px;
+	border:5px solid white;
+	background-color: blue;
+}
+.w{
+	height: 15px;
+	width: 70px;
+	border: 5px solid darkblue;
+	border-radius: 50px;
+	background-color: darkblue;
+	color: whitesmoke;
+	float: left;
+	margin: 5px;
+	word-spacing: 10px;
+	}
+	.h{
+		text-align: center;
+			height: 15px;
+	width: 70px;
+	border: 5px solid darkblue;
+	border-radius: 50px;
+	background-color: darkblue;
+	color: whitesmoke;
+	float: left;
+	margin: 5px;
+
+	}
+.1{
+	background-color: blue;
+	border: 5px solid white;
+	height: 2px;
+	width: 700px;
+}
+.z{
+	height:250px;
+	width: 100px;
+	margin:30px;
+	padding:25px;
+    float: left;
+}
+.w3-border{
+	margin:10px;
+	background-color: grey;
+	text-align: left;
+}
+
+.m{
+	text-align: left;
+	font-size: 20px;
+}
+.n{
+	text-align: left;
+	font-size: 20px;
+}
+.w2-border{
+	margin:10px;
+	background-color: grey;
+	text-align: left;
+}
+.w3-blue{
+	background-color: red;
+	text-align: left;
+}
+.o{
+	text-align: left;
+	font-size: 20px;
+}
+.w1-border{
+	margin:10px;
+	background-color: grey;
+	text-align: left;
+}
+.w3-pink{
+	background-color: green;
+	text-align: left;
+}
+.p{
+	text-align: left;
+	font-size: 20px;
+}
+.w4-border{
+	margin:10px;
+	background-color: grey;
+	text-align: left;
+}
+.w3-yellow{
+	background-color: yellow;
+	text-align: left;
+}
+

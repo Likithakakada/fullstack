@@ -1,0 +1,59 @@
+.liki{
+	background-color: hotpink;
+	color: yellowgreen;
+	font-style: cursive;
+	font-size: 30px;
+    text-align: center;
+}
+#liki{
+	background-color: hotpink;
+	color: green;
+	font-style: cursive;
+	font-size: 30px;
+    text-align: center;
+}
+p{
+	color: pink;
+	font-size: 30px;
+}
+div{
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+}
+*{
+	font-size: 40px;
+	font-family: cursive;
+	color: green;
+}
+input[type="text"] {
+  color: yellow;
+}
+input[type="number"]{
+	color: red;
+}
+input[type="password"]{
+	color: green;
+}
+a[href]
+{
+	background-color: yellowgreen;
+}
+ p.sample{
+ 	font-style: normal;
+ 	font-weight: bold;
+ 	font-variant: small-caps;
+ 	 }
+ 	 a:hover{
+ 	 	color: hotpink;
+ 	 }
+ 	 a:visited{
+ 	 	color: blueviolet;
+ 	 }
+ 	 a:active{
+ 	 	color: mistyrose;
+ 	 }
+ 	 a:link{
+ 	 	color: red;
+ 	 }
+

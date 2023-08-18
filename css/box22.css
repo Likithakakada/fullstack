@@ -1,0 +1,15 @@
+.a{
+	border: 5px solid;
+	height:300px;
+	width: 300px;
+	background-color: green;
+	box-shadow: 3px 3px 4px green;
+	margin: 20px;
+}
+div{
+
+	border: 50px solid  red;
+	width: 400px;
+	margin: 30px;
+	padding: 40px;
+}

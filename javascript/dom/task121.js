@@ -1,0 +1,1 @@
+img_id=document.getElementById('"D:\capstone project-1\mobile app development\images\img1.jpg"');

@@ -1,0 +1,50 @@
+#LIKI{
+	background-color: hotpink;
+	color: green;
+	font-style: cursive;
+	font-size: 30px;
+    text-align: center;
+}
+#home{
+	color: blueviolet;
+}
+#header{
+	background-color:whitesmoke;
+	color: green;
+	font-style: cursive;
+	font-size: 30px;
+}
+#definition{
+
+}
+#list{
+	color: deeppink;
+}
+#tables{
+	table-layout: unset;
+}
+#text{
+         display:flex;
+         vertical align:middle;
+         justify-content:center
+}
+#blockquotes{
+
+}
+p{
+	color:cadetblue ;
+}
+h3:hover{
+
+}
+p{
+	font-size: 30px;
+    font-weight: normal;
+}
+#def{
+         display:flex;
+}
+p{
+	color: green;
+         display:flex;
+}

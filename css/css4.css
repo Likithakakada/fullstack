@@ -1,0 +1,86 @@
+.a{
+	height: 500px;
+	width: 600px;
+	background-color: lightgrey;
+}
+.b{
+	height: 30px;
+	width: 597px;
+	background-color: whitesmoke;
+	margin-top: 4px;
+	padding-top: 15px;
+	border: 2px solid whitesmoke;
+}
+.c{
+	height: 350px;
+	width: 600px;
+	background-color: lightgrey;
+	margin-top: 15px;
+}
+.d{
+	height: 375px;
+	width: 200px;
+	background-color: whitesmoke;
+	float: left;
+	border: 2px solid whitesmoke;
+	margin: 20px;
+}
+.e{
+	height: 425px;
+	width: 300px;
+	background-color: lightgrey;
+	float: right;
+}
+.f{
+	height: 190px;
+	width: 250px;
+	background-color: whitesmoke;
+	border: 2px solid whitesmoke;
+	margin: 5px;
+}
+.g{
+	height: 190px;
+	width: 250px;
+	background-color: whitesmoke;
+	border: 2px solid whitesmoke;
+	margin: 5px;
+}
+.h{
+	height: 20px;
+	width: 60px;
+	border: 2px solid darkblue;
+	border-radius: 50px;
+	background-color: darkblue;
+	color: whitesmoke;
+}
+.i{
+	height: 3px;
+	width: 225px;
+	border: 2px solid red;
+	border-radius: 50px;
+	background-color: red;
+}
+.j{
+	height: 3px;
+	width: 225px;
+	border: 2px solid green;
+	border-radius: 50px;
+	background-color: green;
+}
+.k{
+	height: 3px;
+	width: 225px;
+	border: 2px solid deepskyblue;
+	border-radius: 50px;
+	background-color: deepskyblue;
+}
+.l{
+	height: 15px;
+	width: 60px;
+	border: 2px solid darkblue;
+	border-radius: 50px;
+	background-color: darkblue;
+	color: whitesmoke;
+	float: left;
+	margin: 5px;
+	}

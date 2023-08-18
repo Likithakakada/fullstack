@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>tooltip</title>
+</head>
+<body>
+Tooltips
+The Tooltip component is small pop-up box that appears when the user moves the mouse pointer over an element:
+
+How To Create a Tooltip
+To create a tooltip, add the data-bs-toggle="tooltip" attribute to an element.
+
+Use the title attribute to specify the text that should be displayed inside the tooltip:
+
+<button type="button" class="btn btn-primary" data-bs-toggle="tooltip" title="Hooray!">Hover over me!</button>
+Note: Tooltips must be initialized with JavaScript to work.
+
+The following code will enable all tooltips in the document:
+
+Example
+<script>
+var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+  return new bootstrap.Tooltip(tooltipTriggerEl)
+})
+</script>
+
+</body>
+</html>
